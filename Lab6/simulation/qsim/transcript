@@ -1,0 +1,138 @@
+# do Lab6.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module prob2
+# 
+# Top level modules:
+# 	prob2
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module prob2_vlg_sample_tst
+# -- Compiling module prob2_vlg_check_tst
+# ** Error: Lab6.vt(66): near "3": syntax error, unexpected INTEGER NUMBER, expecting ')'
+# ** Error: Lab6.vt(80): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(81): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(92): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(93): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(98): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(99): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(135): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(135): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(136): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(136): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(146): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(151): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(156): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(161): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(166): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(171): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(176): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(181): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(186): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(191): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(196): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(201): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(206): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(211): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(319): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(319): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(333): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(333): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(334): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(334): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(339): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(343): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(343): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(346): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(346): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(347): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(347): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(352): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(356): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(356): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(359): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(359): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(360): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(360): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(365): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(369): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(369): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(372): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(372): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(373): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(373): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(378): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(382): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(382): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(385): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(385): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(386): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(386): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(391): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(395): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(395): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(398): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(398): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(399): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(399): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(404): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(408): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(408): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(411): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(411): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(412): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(412): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(417): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(421): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(421): near "0e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(424): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(424): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(425): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(425): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(430): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(434): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(434): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(437): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(437): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(438): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(438): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(443): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(447): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(447): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(450): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(450): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(451): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(451): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(456): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(460): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(460): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(463): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(463): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(464): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(464): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(469): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(473): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(473): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(476): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(476): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(477): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(477): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(482): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(486): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(486): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(489): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(489): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(490): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(490): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(495): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(499): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(499): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(502): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(502): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(503): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(503): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(508): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(512): near "4e": Digits must follow 'E' character in real.
+# ** Error: Lab6.vt(512): near "4e": Digits must follow 'E' character in real.
+# ** Error: c:/altera/13.0sp1/modelsim_ase/win32aloem/vlog failed.
+# Executing ONERROR command at macro ./Lab6.do line 4
