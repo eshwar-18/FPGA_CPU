@@ -32,3 +32,24 @@ The design was validated through simulation to ensure:
 
 ## Project Structure
 
+FPGA-ALU-FSM/
+├── src/
+│   ├── alu.vhd              # Arithmetic Logic Unit implementation
+│   ├── fsm.vhd              # Finite State Machine control logic
+│   ├── control_unit.vhd     # Operation selection and signal coordination
+│   └── top_level.vhd        # Top-level module integrating ALU and FSM
+│
+├── sim/
+│   ├── alu_tb.vhd           # ALU testbench
+│   ├── fsm_tb.vhd           # FSM testbench
+│   └── system_tb.vhd        # Full system simulation testbench
+│
+├── docs/
+│   ├── lab_report.pdf       # Final lab report
+│   └── design_notes.md      # Design decisions and implementation details
+│
+├── constraints/
+│   └── pin_assignments.xdc  # FPGA pin constraints (if applicable)
+│
+├── README.md
+└── LICENSE
